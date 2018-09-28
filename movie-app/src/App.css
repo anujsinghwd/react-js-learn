@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,700,800');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.titleBar{
+  background-color: #000;
+  display: block;
+  color: #fff;
+  font-size: 24px;
+  padding-left: 16px;
+}
+
+.searchBar{
+  font-size: 24px;
+  display: block;
+  width: 99%;
+  padding-top: 8;
+  padding-bottom: 8;
+  padding-left: 16;
+}
