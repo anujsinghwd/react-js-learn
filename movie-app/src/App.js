@@ -3,7 +3,7 @@ import './App.css';
 import Header from './Header';
 import MovieRow from './MovieRow';
 
-const key = "5b450502eece31887fe130255589e329";
+const key = "YOUR THE MOVIEDB API KEY";
 const BASE_URL = `https://api.themoviedb.org/3/search/movie`;
 //?api_key=&query=${query}
 class App extends Component {
